@@ -18,7 +18,7 @@ export function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
-            <h1 className="text-xl font-heading font-bold text-primary">Design Studio</h1>
+            <h1 className="text-xl font-heading font-bold text-primary">WILD SITES</h1>
           </div>
 
           {/* Desktop Navigation */}
